@@ -67,6 +67,11 @@ Mustard over at Smutbase for making the Scarlet_V2 Model accessible for everyone
 https://smutba.se/user/10157/
 
 
+***Other Notes***
+
+You can donate to me via paypal: paypal.me/CBusiness525
+
+
 
 I am still new to Blender and i cant offer too much but maybe we can learn from each other. Thanks!
 
