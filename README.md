@@ -1,7 +1,9 @@
-****************************BlondeWizards Boob and Butt Boxes*****************************************
+BlondeWizards Boob and Butt Boxes
 
 
 ****Note! This was made in Blender 2.83, previous versions may or may not work****
+****These Boxes grant the ability to add physics to Boobs and Butts on all models****
+
 
 ****      Requirements     ****
 
